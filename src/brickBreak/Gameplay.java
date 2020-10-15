@@ -1,4 +1,4 @@
-package BrickBreaker;
+package brickBreaker;
 
 public class Gameplay{
 	
